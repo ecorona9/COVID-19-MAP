@@ -1,7 +1,7 @@
 Hello,
 
 
-Our team is Immaculate covid tracker
+Our team is Immaculate covid tracker built using gatsby, react and leafy
 
 
 Gavin Gray 
